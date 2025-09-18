@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "小红书评论导出工具",
+  "version": "1.0",
+  "description": "一键爬取小红书笔记评论和用户信息，导出为CSV",
+  "permissions": ["downloads", "scripting", "activeTab"],
+  "host_permissions": [
+    "https://www.xiaohongshu.com/*",
+    "https://edith.xiaohongshu.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.xiaohongshu.com/explore/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+
+}
