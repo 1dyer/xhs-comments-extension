@@ -35,5 +35,5 @@ This extension does not integrate any third-party services, and does not contain
 The extension is provided solely as a technical tool. Users are responsible for ensuring their use complies with Xiaohongshu's terms of service and applicable laws.
 
 5. Contact Information  
-For any inquiries, please contact the developer: your-email@example.com
+For any inquiries, please contact the developer: 941521358@qq.com
 
