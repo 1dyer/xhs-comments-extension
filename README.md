@@ -31,6 +31,8 @@
 
 ![alt text](image/image-5.png)
 
+最后别忘了给这个扩展五星好评哟~⭐️⭐️⭐️⭐️⭐️
+
 显示该信息，就说明扩展已经成功安装了：
 
 ![alt text](image/image-6.png)
